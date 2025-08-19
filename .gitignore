@@ -1,0 +1,41 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+
+# IDE files
+.vscode/
+.idea/
+
+# Data files (if too large)
+*.csv
+*.xlsx
+*.json
+*.pickle
+*.pkl
+
+# Model files
+*.h5
+*.model
+*.joblib
+
+# Output files that might be regenerated
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.pdf
